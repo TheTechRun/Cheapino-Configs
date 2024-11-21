@@ -1,0 +1,606 @@
+[
+  {
+    "backcolor": "#000000",
+    "name": "Cheapino-TTR",
+    "author": "TTR",
+    "notes": "Teal #239299 : Layer 1 Numbers \n\nGreen #23994b : Layer 2 Window Manager\n\nOrange #d33b1a : Layer 3 Media\n\nGray #574848 : Layer 4 Mouse\n\nBrown: Layer 5 Functions\n\nBlue #002fd1 : Tap Dance\n\nRed #ed1344 : Modifiers\n\nPurple #902399 :  Combos\n\n<i class='kb kb-Arrows-Right'></i>\n\n<i class='kb kb-Arrows-Left'></i>\n\n<i class='kb kb-Arrows-Up'></i>\n\n<i class='kb kb-Arrows-Down'></i>\n\n<i class='kb kb-Arrows-Left-Circle-Filled'></i>\n\n<i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\n\n",
+    "switchMount": "cherry",
+    "plate": true,
+    "css": ".keyborder[style*=\"#ff0000\"] {\n    border-radius: 50% !important;\n    background-color: #ccc !important;\n}\n.keytop[style*=\"#ff4223\"] {\n    border-radius: 50% !important;\n    background-color: #fff !important;\n}"
+  },
+  [
+    {
+      "x": 2,
+      "t": "#000000\n#239299\n#574848\n\n\n\n#239299"
+    },
+    "\n8\nf3\n\n\n\n*\n\n\nE",
+    {
+      "x": 9,
+      "t": "#23994b\n\n#574848\n#8b4513\n\n\n#239299\n\n\n#000000",
+      "fa": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "f3\n\nf8\nCopy\n\n\n<\n\n\nI",
+    {
+      "x": 5.5,
+      "t": "#ffffff",
+      "a": 7,
+      "fa": [
+        9
+      ],
+      "w": 4,
+      "h": 0.75,
+      "d": true
+    },
+    "Legend:"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 1,
+      "t": "#000000\n#239299\n#574848\n\n\n\n#239299",
+      "a": 4
+    },
+    "\n7\nf2\n\n\n\n&\n\n\nW",
+    {
+      "x": 1,
+      "t": "#000000\n#239299\n#574848\n\n\n\n#239299\n\n#d33b1a"
+    },
+    "\n9\nf4\n\n\n\n(\n\n<i class='kb kb-Multimedia-Rewind-Start'></i>\nR",
+    {
+      "x": 7,
+      "t": "#23994b\n#902399\n#574848\n#8b4513\n\n\n#239299\n\n\n#000000",
+      "fa": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    "f2\n<i class='kb kb-Arrows-Left-Circle-Filled'></i>Tab\nf7\nCut\n\n\n_\n\n\nU",
+    {
+      "x": 1,
+      "c": "#d33b1a",
+      "t": "#23994b\n\n#574848\n#8b4513\n\n\n#239299\n\n\n#000000",
+      "fa": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "f4\n\nf9\nPaste\n\n\n>\n\n\nO"
+  ],
+  [
+    {
+      "y": -0.75,
+      "c": "#cccccc",
+      "t": "#002fd1\n\n#574848\n\n\n\n#239299",
+      "fa": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    "\n\nf1\n\npopup\n\n/\n\n\nQ\nEsc",
+    {
+      "x": 3,
+      "t": "#000000\n#239299\n#574848\n\n\n\n\n\n#d33b1a",
+      "f": 3
+    },
+    "\nHome\nf5\n\n\n\n\n\n<i class='kb kb-Multimedia-FastForward-End'></i>\nT",
+    {
+      "x": 5,
+      "t": "#23994b\n#239299\n#574848\n#8b4513\n\n\n#239299\n#902399\n\n#000000",
+      "fa": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "f1\nUp\nf6\nSelect\n\n\nPage\nTab<i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\nY",
+    {
+      "x": 3,
+      "c": "#d33b1a",
+      "t": "#23994b\n\n#574848\n\n#002fd1\n\n#239299\n\n\n#002fd1",
+      "fa": [
+        0,
+        1,
+        0
+      ]
+    },
+    "f5\n\nf10\n\nPrint\n\n\\\n\n\nP"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2,
+      "c": "#23994b",
+      "t": "#ba2ac7\n#00f2ff\n\n\n\n\n#00f2ff\n\n\n#000000",
+      "fa": [
+        4
+      ]
+    },
+    "<i class='kb kb-Arrows-Left-Circle-Filled'></i>`\n5\n\n\n\n\n%\n\n\nD",
+    {
+      "x": 4.25,
+      "c": "#ff0000",
+      "t": "#239299\n\n\n\n\n\n\n\n\n#d33b1a\n#23994b",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        1
+      ]
+    },
+    "Hue  -\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>\nSmaller",
+    {
+      "x": 0.5,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        1
+      ]
+    },
+    "Hue +\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>\nBigger",
+    {
+      "x": 2.25,
+      "c": "#23994b",
+      "t": "#902399\n\n#902399\n\n\n\n#61f6ff\n\n\n#000000",
+      "fa": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "W.Up\n\n[ ]<i class='kb kb-Arrows-Right-Circle-Filled'></i>\nW.Left\n\n\n@\n\n\nK",
+    {
+      "x": 2.75,
+      "c": "#cccccc",
+      "t": "#ffffff",
+      "a": 6,
+      "f": 4,
+      "fa": [
+        6
+      ],
+      "w": 1.75,
+      "d": true
+    },
+    "<h5><b>Colors</b>:"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 1,
+      "c": "#8b4513",
+      "t": "#000000\n#239299\n#fa00ff\n\n\n\n#239299",
+      "a": 4,
+      "f": 3
+    },
+    "\n4\n```<i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\n\n\n$\n\n\nS",
+    {
+      "x": 1,
+      "c": "#23994b",
+      "t": "#ba2ac7\n#00f2ff\n#d33b1a\n\n\n\n#00f2ff\n\n\n#000000",
+      "n": true
+    },
+    "<i class='kb kb-Arrows-Left-Circle-Filled'></i>```\n6\n<i class='kb kb-Multimedia-Stop'></i>\n\n\n\n^\n\n\nF",
+    {
+      "x": 7,
+      "t": "#000000\n\n\n#8b4513\n\n\n#61f6ff\n#902399\n#ffffff",
+      "fa": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        5,
+        1
+      ],
+      "n": true
+    },
+    "\n\n\nRedo\n\n\n;\n{}<i class='kb kb-Arrows-Right-Circle-Filled'></i>\nSP<i class='kb kb-Tab-2'></i>\nJ",
+    {
+      "x": 1,
+      "c": "#cccccc",
+      "t": "#902399\n\n\n#8b4513\n\n\n#239299\n\n\n#000000",
+      "fa": [
+        2,
+        0,
+        1,
+        1,
+        0,
+        0,
+        4,
+        1,
+        0
+      ]
+    },
+    "<i class='kb kb-Arrows-Left-Circle-Filled'></i>{}\n\nW.Up\nW.Right\n\n\n~\n\n\nL"
+  ],
+  [
+    {
+      "y": -0.75,
+      "c": "#8b4513",
+      "t": "#000000\n\n#fa00ff\n\n\n\n#239299",
+      "fa": [
+        2,
+        0,
+        4,
+        1,
+        0,
+        0,
+        5
+      ]
+    },
+    "\n\n`<i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\n\n\n*\n\n\nA",
+    {
+      "x": 3,
+      "c": "#cccccc",
+      "t": "#000000\n#239299\n\n\n\n\n\n\n#d33b1a"
+    },
+    "\nEnd\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>\nG",
+    {
+      "x": 5,
+      "t": "#000000\n#239299\n\n#8b4513\n\n\n#239299\n\n#23994b",
+      "fa": [
+        2,
+        1,
+        4,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "\nDown\n\nUndo\n\n\nPage\n\nSP+\nH",
+    {
+      "x": 3,
+      "t": "#902399\n#239299\n\n#8b4513\n#002fd1\n\n\n\n\n#002fd1",
+      "fa": [
+        1,
+        1,
+        4,
+        1
+      ]
+    },
+    "<i class='kb kb-Arrows-Left-Circle-Filled'></i>[ ]\n=\n\nW.Down\nDelete\n\n\n\n\nBksp"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 16.25,
+      "t": "#239299",
+      "a": 7,
+      "f": 3,
+      "w": 5.25,
+      "h": 0.5,
+      "d": true
+    },
+    "Layer 1 - Numbers & Symbols - TEAL #239299"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2,
+      "t": "#000000\n#239299\n\n\n\n\n#239299",
+      "a": 4,
+      "f": 3
+    },
+    "\n2\n\n\n\n\n@\n\n\nC",
+    {
+      "x": 5,
+      "t": "#d33b1a\n#23994b",
+      "a": 5
+    },
+    "\nRESIZE\n\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    {
+      "x": 3,
+      "t": "#902399\n#8b4513",
+      "a": 4,
+      "fa": [
+        2,
+        2
+      ]
+    },
+    "<i class='kb kb-Arrows-Left-Circle-Filled'></i>Menu\n<i class='kb kb-Arrows-Left'></i>\n\n\n\n\n\n<i class='kb kb-Arrows-Up'></i><i class='kb kb-Arrows-Right-Circle-Filled'></i>"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 1,
+      "t": "#902399\n#239299\n\n\n#002fd1\n\n#239299\n\n\n#002fd1",
+      "fa": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        0
+      ]
+    },
+    "<i class='kb kb-Arrows-Left-Circle-Filled'></i>X\n1\n( )<i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\n,\n\n!\n\n\n.",
+    {
+      "x": 1,
+      "t": "#902399\n#239299\n\n\n\n\n#239299",
+      "fa": [
+        1
+      ]
+    },
+    "( )<i class='kb kb-Arrows-Left-Circle-Filled'></i>\n3\n\n\n\n\n#\n\n\nV",
+    {
+      "x": 7,
+      "t": "#000000\n\n#902399\n#8b4513\n\n\n#239299",
+      "fa": [
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "\n\nMenu<i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\n\n\n:\n\n\nM",
+    {
+      "x": 1,
+      "t": "#902399\n\n\n#8b4513",
+      "f": 3
+    },
+    "<i class='kb kb-Arrows-Left-Circle-Filled'></i><i class='kb kb-Arrows-Up'></i>\n\n\n<i class='kb kb-Arrows-Right'></i>",
+    {
+      "x": 2.25,
+      "t": "#23994b",
+      "a": 7,
+      "f": 3,
+      "w": 5.5,
+      "h": 0.5,
+      "d": true
+    },
+    "Layer 2 - i3  Window Manager - GREEN #23994B"
+  ],
+  [
+    {
+      "y": -0.75,
+      "t": "#239299\n\n#902399\n\n\n\n\n\n\n#000000",
+      "a": 4,
+      "fa": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ]
+    },
+    "\nTG(1)\nX<i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\n\n\n-\n\n\nZ",
+    {
+      "x": 3,
+      "t": "#000000\n#239299\n\n\n\n\n#239299\n\n#d33b1a",
+      "f": 3
+    },
+    "\n0\n\n\n\n\n)\n\n<i class='kb kb-Multimedia-Mute-2'></i>\nB",
+    {
+      "x": 5,
+      "t": "#239299",
+      "a": 6,
+      "f": 3
+    },
+    "#\n\n\n\n\n\n\n\nN",
+    {
+      "x": 3,
+      "t": "#8b4513\n#8b4513",
+      "a": 5
+    },
+    "\n<i class='kb kb-Arrows-Down'></i>"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 15.52,
+      "t": "#d33b1a",
+      "a": 7,
+      "f": 3,
+      "w": 5.85,
+      "h": 0.5,
+      "d": true
+    },
+    "Layer 3 - Media - ORANGE #D33B1A"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 15.9,
+      "t": "#8b4513",
+      "f": 3,
+      "w": 5,
+      "h": 0.5,
+      "d": true
+    },
+    "Layer 4 - Mouse - BROWN #8B4513"
+  ],
+  [
+    {
+      "y": -0.5499999999999998,
+      "x": 10.3,
+      "c": "#239299",
+      "t": "#000000",
+      "a": 5,
+      "fa": [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "Layer\nnum\n\n\n\n\n1"
+  ],
+  [
+    {
+      "y": -0.9500000000000002,
+      "x": 3.7,
+      "c": "#ed1344",
+      "t": "#000000\n\n\n#902399",
+      "a": 4,
+      "f": 2
+    },
+    "\n\n\nfun <i class='kb kb-Arrows-Right-Circle-Filled'></i>\n\n\n\n\n\nLControl",
+    {
+      "x": 11.18,
+      "c": "#cccccc",
+      "t": "#574848",
+      "a": 7,
+      "f": 3,
+      "w": 5,
+      "h": 0.5,
+      "d": true
+    },
+    "Layer 5 - Functions - GRAY #574848"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 15.35,
+      "t": "#ed1344",
+      "w": 5,
+      "h": 0.5,
+      "d": true
+    },
+    "Modifiers - RED #ED1344"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 15.5,
+      "t": "#902399",
+      "w": 5,
+      "h": 0.5,
+      "d": true
+    },
+    "Combos - PURPLE #902399"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 15.22,
+      "t": "#002fd1",
+      "w": 5.5,
+      "h": 0.5,
+      "d": true
+    },
+    "Tap Dance - BLUE #002FD1"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 15.75,
+      "t": "#ffffff",
+      "a": 4,
+      "w": 10,
+      "h": 3.5,
+      "d": true
+    },
+    "<h5><b>Combos (Purple):</b></h5><ul><li>Combos have arrows pointing to the combo keys.</li><li>If the combo keys are not next to each other, then they will each key have the Purple Key label on them.</li><li>Combo keys for layers are color coded (except for the Function Key Layer), therefore no Purple arrows are needed.</li></ul><h5><b>Tap Dance (Blue):</b></h5><ul><li>Top Key is Double Tap</li><li>Middle Key is Tap</li><li>Bottom Key is Hold</li><li>Front Key is Tap & Hold</li>"
+  ],
+  [
+    {
+      "x": 5.5,
+      "t": "#ffca17",
+      "a": 7,
+      "f": 9,
+      "w": 4.25,
+      "d": true
+    },
+    "CHEAPINO - TTR"
+  ],
+  [
+    {
+      "r": 3.25,
+      "y": -4.25,
+      "x": 5.1,
+      "c": "#ed1344",
+      "t": "#000000",
+      "f": 3
+    },
+    "LAlt"
+  ],
+  [
+    {
+      "r": 4,
+      "rx": 0.75,
+      "ry": 0.5,
+      "y": 3,
+      "x": 5.45
+    },
+    "LShift"
+  ],
+  [
+    {
+      "r": -4,
+      "rx": 0,
+      "ry": 0,
+      "y": 4.4,
+      "x": 7.7,
+      "t": "#000000\n#902399",
+      "a": 4
+    },
+    "\n<i class='kb kb-Arrows-Left-Circle-Filled'></i>fun\n\n\n\n\n\n\n\nLGUI"
+  ],
+  [
+    {
+      "r": -3.25,
+      "y": -1.1500000000000004,
+      "x": 8.9002,
+      "c": "#cccccc",
+      "t": "#002fd1",
+      "a": 7,
+      "f": 4
+    },
+    "space\n\n\n\nenter"
+  ]
+]
