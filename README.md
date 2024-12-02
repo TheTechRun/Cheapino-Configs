@@ -1,5 +1,5 @@
 # TTR Cheapino Setup
-My vial configs for my cheapino split keyboard. Also configs for illustrations that are done on keyboard-layout-editor.com
+My vial configs for my Gallium layout using cheapino split keyboard. Also configs for illustrations that are done on keyboard-layout-editor.com
 
 ## ttr-cheapino-layout.vil:
 Just my vial configs. Load this in vial if you want to try my same keymaps.
