@@ -11,4 +11,4 @@ My keyboard-layout-editor.com config. Copy and paste this into the raw data fiel
 
 ## empty-layout.txt
 There is no preset build on keyboard-layout-editor.com for the cheapino. So I made this. It is a blank template and you can start adding the keys that you like. 
-![text](https://raw.githubusercontent.com/TheTechRun/Cheapino-Configs/main/images/empty-layout-VISUAL.png))
+![text](https://raw.githubusercontent.com/TheTechRun/Cheapino-Configs/main/templates/empty-layout-VISUAL.png))
