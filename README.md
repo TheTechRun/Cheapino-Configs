@@ -1,5 +1,5 @@
 # TTR Cheapino Setup
-My vial configs for my Gallium layout using cheapino split keyboard. Also configs for illustrations that are done on keyboard-layout-editor.com
+My vial configs for my Gallium layout using cheapino split keyboard. For mod keys I am using the [seniply](https://stevep99.github.io/seniply) method because I dont like homerow mods. Also configs for illustrations are done on keyboard-layout-editor.com
 
 ## layout.vil:
 Just my vial configs. Load this in vial if you want to try my same keymaps.
